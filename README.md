@@ -1,7 +1,9 @@
 # 2016-shannon-theory
 Codes for my introduction article on Shannon theory.
 
-For now, the article is only [available in french](HAL link here).
+For now, the article is only [available in french](http://hal.archives-ouvertes.fr/hal-01343890).
+
+The notebook can be [viewed online from here]().
 
 - The main file is data_compression.ipynb, which is a Jupyter notebook presenting the code
 to reproduce the figure of the articles.
