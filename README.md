@@ -1,6 +1,8 @@
 # 2016-shannon-theory
 Matlab codes for my introduction article on Shannon theory.
 
+![Shannon's logo](logo/results/shannon-256.png)
+
 For now, the article is only [available in french](http://hal.archives-ouvertes.fr/hal-01343890).
 
 The Matlab Jupyter notebook can be [viewed online from here](http://nbviewer.jupyter.org/github/gpeyre/2016-shannon-theory/blob/master/data_compression.ipynb).
